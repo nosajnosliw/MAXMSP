@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u318001051",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"rota::jg.sinusosc::cycle-period" : [ 0.1 ],
+					"rota::jg.sinusosc[1]::cycle-period" : [ 0.15 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"rota::jg.sinusosc::cycle-period" : [ 0.5 ],
+					"rota::jg.sinusosc[1]::cycle-period" : [ 0.05 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
